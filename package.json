@@ -1,0 +1,22 @@
+{
+  "name": "try-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./array/arrayOparetion.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadanarul/Try-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadanarul/Try-Javascript/issues"
+  },
+  "homepage": "https://github.com/mohammadanarul/Try-Javascript#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }}
